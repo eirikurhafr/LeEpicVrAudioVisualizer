@@ -2,20 +2,20 @@
 The greatest visualizer the world has ever seen
 
 # Task 1
-  - ]] Set up Git repo
+  - [ ] Set up Git repo
 # Task 2
-  - [] Create base sceen
+  - [ ] Create base sceen
 # Task 3
-  - [] Get audio level plugin from the unreal store
+  - [ ] Get audio level plugin from the unreal store
 # Task 4
-  - [] Teach Kuba how to use Github
+  - [ ] Teach Kuba how to use Github
 # Task 5
-  - [] Make assets
+  - [ ] Make assets
 # Task 6
-  - [] Get rigging help from the Little
+  - [ ] Get rigging help from the Little
 # Task 7
-  - [] Create particle systems
+  - [ ] Create particle systems
 # Task 8
-  - [] Connect animations and paticle systems to value from audio levels
+  - [ ] Connect animations and paticle systems to value from audio levels
 # Task 9
   - Refactor BBY!!!!!!!
